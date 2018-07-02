@@ -15,10 +15,11 @@ int main(void)
 
 int strend(char *s, char *t)
 {
-    while(*(++s));
-    while(*(++t));
+    char *ptr = s;
+    while(*++s);
+    while(*++t);
     while(*t-- == *s--)
-        if(!(*t))
+        if(s == ptr)
             return occured;
     return Not_occured;
 }
