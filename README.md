@@ -73,6 +73,6 @@
 	slibc is written as a learning exercise, and for fun.
 
 ## SEE ALSO
-	<https://en.wikipedia.org/wiki/C_standard_library>
+	[C_standard_library wikipedia](https://en.wikipedia.org/wiki/C_standard_library)
 
 	Full documentation available locally via: info '(slibc)'
