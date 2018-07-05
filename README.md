@@ -76,3 +76,5 @@
 	[C_standard_library wikipedia](https://en.wikipedia.org/wiki/C_standard_library)
 
 	Full documentation available locally via: info '(slibc)'
+## Citation 
+	this readme and helpfull materials from [maandree](https://github.com/maandree/slibc)
