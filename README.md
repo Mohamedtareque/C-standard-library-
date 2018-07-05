@@ -69,11 +69,11 @@
        to make the program use fast implementions when the library
        is compiled to use the size optimised implementations.
 
-## RATIONALE
+# RATIONALE
 	slibc is written as a learning exercise, and for fun.
 
-## SEE ALSO
-	[C_standard_library wikipedia](https://en.wikipedia.org/wiki/C_standard_library)
+# SEE ALSO
+[C_standard_library wikipedia](https://en.wikipedia.org/wiki/C_standard_library)
 
-## Citation 
-	this readme and helpfull materials from [maandree](https://github.com/maandree/slibc)
+# Citation 
+this readme and helpfull materials from [maandree](https://github.com/maandree/slibc)
