@@ -1,3 +1,5 @@
+#include <stdio.h>
+#include <stdlib.h>
 #define         MAXSIZE         30
 
 char buffer[MAXSIZE] = "123";
